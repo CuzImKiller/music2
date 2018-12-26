@@ -1,4 +1,4 @@
-﻿token= NTI3NDkyODQ0MDQzMjM5NDI0.DwUjPA.qWJuW14pkZh4NZLmQhmXEWT1EDo 
+﻿token= NTI3NDkyODQ0MDQzMjM5NDI0.DwUwyA.JqpvfRvF6zhGvNWefFKaNC4zGYQ
 owner= 526210504822358056 
 prefix= 2
 game= Gamers Music | 2help
