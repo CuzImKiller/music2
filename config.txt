@@ -1,5 +1,5 @@
-Bot Token= NTI3NDkyODQ0MDQzMjM5NDI0.DwU1bg.Y76oUIGmYw_e9Rwd8KKAIz5qjKw
-owner= 526210504822358056 
+token=NTI3NDkyODQ0MDQzMjM5NDI0.DwU17Q.rvmtSMAK51m6BHkaMv7zXeqaAV8
+owner=526210504822358056 
 prefix= 2
 game= !thelp
 stayinchannel=true
