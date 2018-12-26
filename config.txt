@@ -1,6 +1,6 @@
-﻿token= NTI3NDkyODQ0MDQzMjM5NDI0.DwUwyA.JqpvfRvF6zhGvNWefFKaNC4zGYQ
+﻿token= NTI3NDkyODQ0MDQzMjM5NDI0.DwUxaw.xgE1RvGZ-D6g9Yrh7R29G0DlMvE
 owner= 526210504822358056 
 prefix= 2
-game= Gamers Music | 2help
+game= !thelp
 stayinchannel=true
 songinstatus=true 
