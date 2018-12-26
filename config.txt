@@ -1,4 +1,4 @@
-Bot Token= NTI3NDkyODQ0MDQzMjM5NDI0.DwU0ww.Ud59oyz6rw1Juzb8TFjp8SXCpRc
+token= NTI3NDkyODQ0MDQzMjM5NDI0.DwU0ww.Ud59oyz6rw1Juzb8TFjp8SXCpRc
 owner= 526210504822358056 
 prefix= 2
 game= !thelp
